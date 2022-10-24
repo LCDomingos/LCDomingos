@@ -1,6 +1,7 @@
 ## Hello 👋
 <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;"     src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b76110ffbc247d19a239a3eca340a856a3bcdf86eaeb7&rid=giphy.gif&ct=g">
 
+
 - 🔭 Open to work  and Studying back-end development...
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-c-domingos)
@@ -21,10 +22,12 @@
    
 </div><br>
 
+
+  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LCDomingos&show_icons=true&theme=radical)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCDomingos&layout=compact&langs_count=7&theme=dark"/>
+  
 <div align="center">
   <a href="https://github.com/LCDomingos">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LCDomingos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCDomingos&layout=compact&langs_count=7&theme=dark"/>
   
   ![Snake animation](https://github.com/LCDomingos/LCDomingos/blob/output/github-contribution-grid-snake.svg)
   
