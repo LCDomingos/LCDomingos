@@ -9,7 +9,7 @@
    
  	
 
-### - These are some of the technologies and tools I study:
+- These are some of the technologies and tools I study:
 <div style="display: inline_block"><br>
   <img align="center" img height="20em" alt=""SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
   <img align="center" img height="20em" alt=""POSTGRES" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
