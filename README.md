@@ -8,6 +8,7 @@
  	<a href="mailto:lucas.c.domingos@hotmail.com" target="_blank"><img height="20em" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div><br>
  	
+---
 
 ### These are some of the technologies and tools I study:
 <div style="display: inline_block"><br>
@@ -23,11 +24,9 @@
   
   <img align="right" img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCDomingos&layout=compact&langs_count=7&theme=dark"/>
    
-</div><br>
-           
-  <div style="display: inline_block"><br>                                                                                                                                                 
-  </div><br>
-                                                                                                                                                   
+</div><br>  
+
+  ---                                                                                                                                              
                                                                                                                                                    
                                                                                                                                                    
   ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LCDomingos&show_icons=true&theme=radical)
