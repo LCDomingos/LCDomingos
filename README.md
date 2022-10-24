@@ -29,7 +29,7 @@
   ---                                                                                                                                              
                                                                                                                                                    
                                                                                                                                                    
-  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LCDomingos&show_icons=true&theme=radical)
+  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LCDomingos&show_icons=true&theme=dark)
   
 
 
