@@ -18,12 +18,14 @@
   <img align="center" alt=""C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
   <img align="center" alt=""UNITY" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> 
   
-  ![Snake animation](https://github.com/LCDomingos/LCDomingos/blob/output/github-contribution-grid-snake.svg)
- 
-  
+   
 </div><br>
 
-
-  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LCDomingos&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/LCDomingos">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LCDomingos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCDomingos&layout=compact&langs_count=7&theme=dark"/>
   
+  ![Snake animation](https://github.com/LCDomingos/LCDomingos/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
