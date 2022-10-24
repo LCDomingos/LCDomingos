@@ -21,12 +21,16 @@
   <img align="center" img height="20em" alt=""C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
   <img align="center" img height="20em" alt=""UNITY" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> 
   
+  <img align="right" img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCDomingos&layout=compact&langs_count=7&theme=dark"/>
    
 </div><br>
+           
+  <div style="display: inline_block"><br>                                                                                                                                                 
+  </div><br>
+                                                                                                                                                   
                                                                                                                                                    
                                                                                                                                                    
   ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LCDomingos&show_icons=true&theme=radical)
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCDomingos&layout=compact&langs_count=7&theme=dark"/>
   
 
 
