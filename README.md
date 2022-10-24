@@ -23,9 +23,11 @@
   
    
 </div><br>
-  
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCDomingos&layout=compact&langs_count=7&theme=dark"/>
+                                                                                                                                                   
+                                                                                                                                                   
   ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LCDomingos&show_icons=true&theme=radical)
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCDomingos&layout=compact&langs_count=7&theme=dark"/>
+  
 
 
 
