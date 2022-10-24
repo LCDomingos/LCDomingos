@@ -3,10 +3,10 @@
 
 
 - Open to work  and Studying back-end development...
-
+<div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/lucas-c-domingos/" target="_blank"><img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  	<a href="mailto:lucas.c.domingos@hotmail.com" target="_blank"><img height="20em" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-   
+</div><br>
  	
 
 ### These are some of the technologies and tools I study:
