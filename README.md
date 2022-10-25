@@ -2,7 +2,7 @@
 
 
 
-- Hi, my name is Lucas. I am an economist and I am in a career transition to the technology field.
+- Hi, my name is Lucas. I'm an economist but I am in a career transition to the technology field.
 I am currently studying at UNIESP, in the Internet Systems course, where I'm looking for opportunities to grow professionally.
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/lucas-c-domingos/" target="_blank"><img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
